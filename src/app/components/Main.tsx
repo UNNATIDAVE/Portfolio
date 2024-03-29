@@ -12,11 +12,11 @@ const Main = () => {
           <h1 className='text-gray-700'>A Full Stack Developer</h1>
           <div className=' text-gray-600 w-9/12 sm:max-w-[100%] m-auto'>
             <p className='py-2 '>
-              I’m self-motivated quick learner with 7 years of hands-on experience as a Full-Stack Developer.
+              I&apos;m self-motivated quick learner with 7 years of hands-on experience as a Full-Stack Developer.
               Focused on building responsive Full Stack applications integrating back-end technologies.
               <br /><br />
               I specialize in building responsive front-end UI applications
-              that connect with API’s and other backend technologies. I’m
+              that connect with API&apos;s and other backend technologies. I&apos;m
               passionate about learning new technologies and understand there is
               more than one way to accomplish a task. Though I am most proficient
               in building front-end applications using Angular, React.js, Next.js, Node.js,
@@ -26,7 +26,7 @@ const Main = () => {
               <br /><br />
               I started web developement in 2014 and working in many companies like TCS and Cognizant as a Web Developer.
               I have experience working directly with clients and taking mock wireframes all the way to deployed applications.<br />
-              <br />I'm open for new opportunities!
+              <br />I&apos;m open for new opportunities!
             </p>
             <Link href='/#projects' className='underline text-blue-800 hover:text-blue-600 visited:text-purple-600'>
               Check out some of my latest projects.
